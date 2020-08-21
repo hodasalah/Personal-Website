@@ -1,0 +1,82 @@
+@media (min-width: 768px) and (max-width: 992px) {
+    .skills.tt {
+        margin: 0 !important;
+    }
+}
+@media (max-width: 992px) {
+
+    .about-me-box .home-box {
+        margin: 0;
+    }
+
+    .resume-box {
+        margin: 0;
+        height: auto;
+    }
+
+    .sections-two {
+        padding: 0;
+        height: auto;
+    }
+
+    .resume-box-content {
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+
+    .blog-box-content {
+        margin-top: 15px;
+    }
+
+    .contact-box-content {
+        margin-bottom: 15px;
+    }
+
+    .about-me-box .movie__card {
+        height: 100vh;
+    }
+
+    .container-fluid,
+    section.about-me {
+        padding: 50px 15px;
+    }
+
+    .portfolio-box-content h2,
+    .blog-box-content .content-box h2,
+    .resume-box-content h2,
+    .contact-box-content .content-box h2 {
+        font-size: 34px;
+    }
+
+    .portfolio-box-content .content-box span,
+    .resume-box-content .content-box span,
+    .blog-box-content .content-box span,
+    .contact-box-content .content-box span {
+        font-size: 14px;
+        display: block;
+    }
+
+    .portfolio-box-content .content-box a,
+    .resume-box-content .content-box a,
+    .blog-box-content .content-box a,
+    .contact-box-content .content-box a,
+    .my-portfolio ul li {
+        margin-top: 15px;
+    }
+
+    ul.i-info li {
+        margin: 0;
+    }
+
+    .section-title h1,
+    .about-title h1 {
+        font-size: 50px;
+    }
+
+    .skills.tt,
+    form {
+        margin-top: 50px;
+    }
+
+
+}
